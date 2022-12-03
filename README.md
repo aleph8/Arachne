@@ -1,7 +1,7 @@
 
 <p align="center"><a href="https://www.alejandrogp.com/laboratory/arachne"><img hspace="15" width="250" height="250" src="https://github.com/aleph8/aleph8/blob/main/logos/arachnelogo.png?raw=true"></a></p>
 
-<h2 align="center"> A bio-inspired project </h2>
+<h2 align="center"> A bio-inspired project (DEV branch) </h2>
 
 <p align="center"><img src="https://img.shields.io/badge/Python-00599C?style=flat-square&logo=python"> <img src="https://img.shields.io/badge/version-v1.0-informational?style=flat-square"/> <img src="https://img.shields.io/badge/project-documented-success?style=flat-square"/></a> <a href="LICENSE"><img src="https://img.shields.io/badge/license-Creative Commons 4.0-informational?style=flat-square"/></a></p>
 
