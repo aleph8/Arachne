@@ -13,6 +13,8 @@
 4. [Contributing](#spider_web-contributing)
 5. [Contributors](#spider_web-contributors)
 
+<br><p align="center"><a href="/"><img hspace="15" width="500" src="arachne_picture.JPG?raw=true"></a></p>
+
 ***
 
 ### :spider_web: Features
